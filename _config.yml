@@ -1,0 +1,25 @@
+layout_spectrum: 0.027205314639181195
+typography_spectrum: 0.47027861794696585
+color:
+  brandStrength: 0.5436895185280223
+  lightness: 0.7567308643938845
+  saturation: 0.163617069674748
+  rhythmicContrast: 0.5903094262014705
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Definition of Done-Health
+content: []
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d9e018-3ec4-4a49-b20d-03abd59c9ae8.png
