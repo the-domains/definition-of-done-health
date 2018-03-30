@@ -1,16 +1,20 @@
 ---
 inFeed: true
-description: ' Many NHS organisations have the challenge of trying to balance the rising expectations of patients for improved care, the rising expectations of staff to be able to work flexibly, and the need to carefully manage costs and keep patient data secure.'
-dateModified: '2018-03-30T23:43:50.083Z'
-datePublished: '2018-03-30T23:43:50.689Z'
+description: >-
+  Many NHS organisations have the challenge of trying to balance the rising
+  expectations of patients for improved care, the rising expectations of staff
+  to be able to work flexibly, and the need to carefully manage costs and keep
+  patient data secure.
+dateModified: '2018-03-30T23:44:01.527Z'
+datePublished: '2018-03-30T23:44:01.940Z'
 title: Supporting Digital Transformation in the NHS with Office 365
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2018-03-30T23:43:50.689Z'
 sourcePath: >-
   _posts/2018-03-30-supporting-digital-transformation-in-the-nhs-with-office-365.md
+starred: false
+datePublishedOriginal: '2018-03-30T23:43:50.689Z'
 _type: Blurb
 
 ---
