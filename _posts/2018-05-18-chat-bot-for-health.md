@@ -6,22 +6,22 @@ description: >-
   commercial space. So how can your health and human services agency take
   advantage of new ways of conversing to be more responsive in providing
   information when people need it?
-dateModified: '2018-05-18T14:47:55.771Z'
-datePublished: '2018-05-18T14:47:56.435Z'
+dateModified: '2018-05-18T14:49:16.582Z'
+datePublished: '2018-05-18T14:49:17.368Z'
 title: 'Chat bot for health '
 author: []
 publisher:
   name: Pulse Medic
 via: {}
 hasPage: true
+sourcePath: _posts/2018-05-18-chat-bot-for-health.md
 starred: false
 datePublishedOriginal: '2018-05-18T14:47:56.435Z'
-sourcePath: _posts/2018-05-18-chat-bot-for-health.md
 url: chat-bot-for-health/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af8c5f2d-df80-4c07-b7bb-ffa8096c0dc3.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e8d02f948689500fb3c6d17a5409927b/croprotate.jpg?cropheight=367&cropwidth=617&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Faf8c5f2d-df80-4c07-b7bb-ffa8096c0dc3.jpg&x=15&y=0)
 
 The way we communicate is quickly evolving. Constituents want to be able to engage with agencies anytime on any platform or device just like they do in commercial space. So how can your health and human services agency take advantage of new ways of conversing to be more responsive in providing information when people need it?
 
